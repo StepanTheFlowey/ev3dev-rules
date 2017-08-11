@@ -1,4 +1,4 @@
-ev3dev-rules (2) stable; urgency=medium
+ev3dev-rules (2) testing; urgency=medium
 
   * Change ev3dev LED suffix to "brick-status"
   * target stretch
