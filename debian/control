@@ -5,8 +5,8 @@ Build-Depends: debhelper (>= 10.0.0)
 Standards-Version: 3.9.8
 Section: kernel
 Homepage: http://www.ev3dev.org
-Vcs-Git: https://github.com/ev3dev/ev3dev-rules.git
-Vcs-Browser: https://github.com/ev3dev/ev3dev-rules
+Vcs-Git: https://github.com/StepanTheFlowey/ev3dev-rules.git
+Vcs-Browser: https://github.com/StepanTheFlowey/ev3dev-rules
 
 Package: ev3dev-rules
 Architecture: all
